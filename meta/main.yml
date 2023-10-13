@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  description: clickhouse
+  role_name: clickhouse_role
+  author: Nagibin Pavel
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.10
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - clickhouse
